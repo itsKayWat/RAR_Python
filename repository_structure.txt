@@ -1,0 +1,26 @@
+RAR_Python/
+│
+├── RAR_Python.py           # Main application file
+├── requirements.py         # Requirements installer
+├── README.md              # Main readme
+├── README.html           # HTML documentation
+├── README.txt            # Text documentation
+├── LICENSE              # License file
+│
+├── docs/                # Documentation
+│   ├── images/         # Documentation images
+│   └── guides/         # User guides
+│
+├── src/                # Source code
+│   ├── __init__.py
+│   ├── ui/            # UI components
+│   ├── core/          # Core functionality
+│   └── utils/         # Utility functions
+│
+├── tests/             # Test files
+│   └── __init__.py
+│
+└── resources/         # Application resources
+    ├── icons/        # UI icons
+    ├── themes/       # Theme files
+    └── locales/      # Localization files
